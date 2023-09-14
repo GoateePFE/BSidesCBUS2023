@@ -15,4 +15,10 @@ I have taught many technical skills over the years. But there is one skill I hav
 Ashley McGlone is a Technology Strategist at Tanium and a former Microsoft Premier Field Engineer. He has a familiar face (or goatee) in the community as a content creator and speaker. He has previously presented at both Columbus ISSA and BSides conferences, and for the last two years he runs the web show "Tanium Tech Talks" where he interviews experts on the latest innovations in endpoint management and security technology. Previous attendees of his sessions have said that he is both "informative and entertaining". Ashley's goal is to help people grow in their career and increase their impact.
 
 ## Resources
-Slides with links in the PDF in this repo. For any questions, comments, or feedback ping Ashley McGlone on [Twitter](https://twitter.com/GoateePFE) or [LinkedIn](https://www.linkedin.com/in/ashleymcglone).
+Presentation slides with links are in the PDF in this repo.
+
+Watch my web show *Tanium Tech Talks* here: [https://www.youtube.com/playlist?list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOaVV7](https://www.youtube.com/playlist?list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOaVV7)
+
+Register for the free lunch and Sept 26 2023 Columbus Tanium User Group here: [https://site.tanium.com/ColumbusUserGroupSept2023_lp.html](https://site.tanium.com/ColumbusUserGroupSept2023_lp.html)
+
+For any questions, comments, or feedback ping Ashley McGlone on [Twitter](https://twitter.com/GoateePFE) or [LinkedIn](https://www.linkedin.com/in/ashleymcglone).
